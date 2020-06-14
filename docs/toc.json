@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Main Concepts",
+    "items": [
+      {
+        "id": "gettingstarted",
+        "slug": "/hpcc/LearnECL/MainConcepts/README/",
+        "title": "Getting Started"
+      },
+      {
+        "id": "dataset",
+        "slug": "/hpcc/LearnECL/MainConcepts/dataset",
+        "title": "Dataset"
+      },
+      {
+        "id": "filter",
+        "slug": "/hpcc/LearnECL/MainConcepts/filter",
+        "title": "Filter"
+      },      
+      {
+        "id": "mathematics",
+        "slug": "/hpcc/LearnECL/MainConcepts/mathematics",
+        "title": "Mathematics"
+      },
+      {
+        "id": "namingConvension",
+        "slug": "/hpcc/LearnECL/MainConcepts/namingConvension",
+        "title": "Naming Convention"
+      },
+      {
+        "id": "output",
+        "slug": "/hpcc/LearnECL/MainConcepts/output",
+        "title": "Output"
+      },
+      {
+        "id": "recordstructure",
+        "slug": "/hpcc/LearnECL/MainConcepts/recordStructure",
+        "title": "RECORD Structure"
+      },
+      {
+        "id": "sort",
+        "slug": "/hpcc/LearnECL/MainConcepts/sort",
+        "title": "Sort"
+      }
+    ]
+  },
+  {
+    "title": "Advanced Concepts",
+    "items": [
+      {
+        "id": "FUNCTION",
+        "slug": "/hpcc/LearnECL/AdvanceConcepts/function",
+        "title": "Function"
+      },
+      {
+        "id": "JOIN",
+        "slug": "/hpcc/LearnECL/AdvanceConcepts/join",
+        "title": "Join"
+      },
+      {
+        "id": "MODULE",
+        "slug": "/hpcc/LearnECL/AdvanceConcepts/module",
+        "title": "Module"
+      },
+      {
+        "id": "PROJECT",
+        "slug": "/hpcc/LearnECL/AdvanceConcepts/project",
+        "title": "Project"
+      },
+      {
+        "id": "TABLE",
+        "slug": "/hpcc/LearnECL/AdvanceConcepts/table",
+        "title": "Table"
+      },
+      {
+        "id": "TRANSFORM",
+        "slug": "/hpcc/LearnECL/AdvanceConcepts/transform",
+        "title": "Transform"
+      }
+    ]
+  },
+  {
+    "title": "Parsing",
+    "items": [
+      {
+        "id": "NLP",
+        "slug": "/hpcc/LearnECL/Parsing/nlp",
+        "title": "NLP"
+      },
+      {
+        "id": "Text_Parsing",
+        "slug": "/hpcc/LearnECL/Parsing/textParsing",
+        "title": "Text Parsing"
+      }
+    ]
+  }
+]

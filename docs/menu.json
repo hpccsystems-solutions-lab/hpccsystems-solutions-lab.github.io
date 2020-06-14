@@ -1,0 +1,23 @@
+[
+  {
+    "id": "docs",
+    "label": "Learn ECL",
+    "href": "/",
+    "exact": true,
+    "external": false
+  },
+  {
+    "id": "resources",
+    "label": "Resources",
+    "href": "/codeday/README/",
+    "exact": false,
+    "external": false
+  },
+  {
+    "id": "aboutus",
+    "label": "About Us",
+    "href": "/hpcc/README/",
+    "exact": false,
+    "external": false
+  }
+]
