@@ -36,8 +36,6 @@ interface HomeTemplateProps extends RouteComponentProps {
         id: string;
         title: string;
         description?: string;
-        prev?: string;
-        next?: string;
       };
     };
   };
@@ -111,8 +109,6 @@ export const query = graphql`
         id
         title
         description
-        prev
-        next
       }
     }
   }
