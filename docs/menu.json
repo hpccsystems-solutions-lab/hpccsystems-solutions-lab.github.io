@@ -9,14 +9,14 @@
   {
     "id": "resources",
     "label": "Resources",
-    "href": "/codeday/README/",
+    "href": "/hpcc/Resources/cheatSheet",
     "exact": false,
     "external": false
   },
   {
     "id": "aboutus",
     "label": "About Us",
-    "href": "/hpcc/README/",
+    "href": "/hpcc/About",
     "exact": false,
     "external": false
   }

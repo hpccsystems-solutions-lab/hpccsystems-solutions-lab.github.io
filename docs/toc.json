@@ -3,11 +3,6 @@
     "title": "Main Concepts",
     "items": [
       {
-        "id": "gettingstarted",
-        "slug": "/hpcc/LearnECL/MainConcepts/README/",
-        "title": "Getting Started"
-      },
-      {
         "id": "dataset",
         "slug": "/hpcc/LearnECL/MainConcepts/dataset",
         "title": "Dataset"
@@ -23,11 +18,6 @@
         "title": "Mathematics"
       },
       {
-        "id": "namingConvension",
-        "slug": "/hpcc/LearnECL/MainConcepts/namingConvension",
-        "title": "Naming Convention"
-      },
-      {
         "id": "output",
         "slug": "/hpcc/LearnECL/MainConcepts/output",
         "title": "Output"
@@ -41,7 +31,12 @@
         "id": "sort",
         "slug": "/hpcc/LearnECL/MainConcepts/sort",
         "title": "Sort"
-      }
+      },
+      {
+        "id": "codingBestPractices",
+        "slug": "/hpcc/LearnECL/MainConcepts/codingBestPractices",
+        "title": "Coding Best Practices"
+      }      
     ]
   },
   {
@@ -76,6 +71,26 @@
         "id": "TRANSFORM",
         "slug": "/hpcc/LearnECL/AdvanceConcepts/transform",
         "title": "Transform"
+      },
+      {
+        "id": "normalize",
+        "slug": "/hpcc/LearnECL/AdvanceConcepts/normalize",
+        "title": "Normalize"
+      },
+      {
+        "id": "denormalize",
+        "slug": "/hpcc/LearnECL/AdvanceConcepts/denormalize",
+        "title": "Denormalize"
+      }
+    ]
+  },
+  {
+    "title": "Operators",
+    "items": [
+      {
+        "id": "logicalOperators",
+        "slug": "/hpcc/LearnECL/Operators/logicalOperators",
+        "title": "Logical Operators"
       }
     ]
   },
