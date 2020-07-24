@@ -132,51 +132,27 @@ module.exports = {
     {
       resolve: `gatsby-source-git`,
       options: {
-        name: `repo-one`,
-        remote: `https://alfjjacob:58e9fd5edbad4eccf8bb133c55491be00091f1c7@github.com/hpccsystems-solutions-lab/Learn-ECL.git`,
+        name: `LearnECL`,
+        remote: `https://github.com/hpccsystems-solutions-lab/Learn-ECL.git`,
         // Optionally supply a branch. If none supplied, you'll get the default branch.
         branch: `master`,
         // Tailor which files get imported eg. import the docs folder from a codebase.
         patterns: `*.md`,
         local: `${__dirname}/docs/hpcc`
       }
-    },
-    /*{
-      resolve: `gatsby-source-git`,
-      options: {
-        name: `repo-two`,
-        remote: `https://alfjjacob:58e9fd5edbad4eccf8bb133c55491be00091f1c7@github.com/hpccsystems-solutions-lab/ECL-Pattern-Job-Scheduling.git`,
-        // Optionally supply a branch. If none supplied, you'll get the default branch.
-        branch: `master`,
-        // Tailor which files get imported eg. import the docs folder from a codebase.
-        patterns: `*.md`,
-        local: `${__dirname}/docs/ecl-job-scheduling`
-      }
-    },*/
+    },    
     {
       resolve: `gatsby-source-git`,
       options: {
-        name: `repo-three`,
-        remote: `https://alfjjacob:58e9fd5edbad4eccf8bb133c55491be00091f1c7@github.com/hpccsystems-solutions-lab/CodeDay_May2020.git`,
+        name: `CodeDay`,
+        remote: `https://github.com/hpccsystems-solutions-lab/CodeDay_May2020.git`,
         // Optionally supply a branch. If none supplied, you'll get the default branch.
         branch: `master`,
         // Tailor which files get imported eg. import the docs folder from a codebase.
         patterns: `*.md`,
         local: `${__dirname}/docs/codeday`
       }
-    }/*,
-    {
-      resolve: `gatsby-source-git`,
-      options: {
-        name: `repo-four`,
-        remote: `https://alfjjacob:58e9fd5edbad4eccf8bb133c55491be00091f1c7@github.com/hpccsystems-solutions-lab/ECL-Sample-Cheatsheet.git`,
-        // Optionally supply a branch. If none supplied, you'll get the default branch.
-        branch: `master`,
-        // Tailor which files get imported eg. import the docs folder from a codebase.
-        patterns: `*.md`,
-        local: `${__dirname}/docs/cheatsheet`
-      }
-    }*/
+    }
 
   ]
 };
