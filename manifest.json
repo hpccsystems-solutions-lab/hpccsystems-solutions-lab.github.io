@@ -1,9 +1,9 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
+  "static/LXN409 Water_Cycle_v5_nolabels-01-x3byj0.jpg": "static/LXN409 Water_Cycle_v5_nolabels-01-x3byj0-79b4492b27d7f730664ec8b61c4ca2cd.jpg",
   "static/spot-cms.svg": "static/spot-cms-d0114123bc1d4de9bd321579885b005b.svg",
   "static/spot-hello-world.svg": "static/spot-hello-world-49bbaf92aeca77868c859ade3a0bbdf7.svg",
   "static/spot-nl-studio-integration.svg": "static/spot-nl-studio-integration-71b90441ccfe1ce61ff1d6f5ee6abbfd.svg",
-  "static/spot-nl-studio.svg": "static/spot-nl-studio-438d285f529f38dd10f8159841a8ac4e.svg",
-  "static/waterCycleWithWords.jpg": "static/waterCycleWithWords-79b4492b27d7f730664ec8b61c4ca2cd.jpg"
+  "static/spot-nl-studio.svg": "static/spot-nl-studio-438d285f529f38dd10f8159841a8ac4e.svg"
 }
