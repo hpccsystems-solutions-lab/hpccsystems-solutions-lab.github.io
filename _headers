@@ -9,7 +9,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /styles-c2fe8482057191dca484.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-bc939740a436d77ca874.js
+/commons-ed5e52d3cf65aa4126fa.js
   Cache-Control: public, max-age=31536000, immutable
 /b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js
   Cache-Control: public, max-age=31536000, immutable
@@ -27,7 +27,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /undefined
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-b6b3e6c2425970045df4.js
+/webpack-runtime-7227c82ab9d536ee23e2.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-c0711e029899365cbb38.js
   Cache-Control: public, max-age=31536000, immutable
@@ -38,382 +38,382 @@
 /sw.js
   Cache-Control: no-cache
 /hpcc/About/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/QuickStart/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/Resources/cloudIDE_Setup/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/SourceCode/README/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/Resources/cheatSheet/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/Parsing/textParsing/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MainConcepts/codingBestPractices/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MainConcepts/mathematics/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /codeday/README/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-home-tsx-26b748b368796e769e85.js>; rel=preload; as=script
 /QuickStart/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /About/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /README/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/Architecture/dataLake/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MainConcepts/definitionTypes/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MainConcepts/getttingStarted/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/Visualization/dashboard/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/index/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-home-tsx-26b748b368796e769e85.js>; rel=preload; as=script
 /hpcc/LearnECL/AdvanceConcepts/denormalize/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/AdvanceConcepts/function/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/AdvanceConcepts/join/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/AdvanceConcepts/module/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/AdvanceConcepts/normalize/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/AdvanceConcepts/project/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MainConcepts/dataset/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/Operators/logicalOperators/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/AdvanceConcepts/table/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/AdvanceConcepts/transform/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/Parsing/nlp/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MachineLearning/introduction/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MainConcepts/filter/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MainConcepts/output/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MainConcepts/recordStructure/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MainConcepts/sort/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MachineLearning/DBSCAN/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MachineLearning/LinearRegression/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MachineLearning/KMeans/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MachineLearning/DecisionTree/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /hpcc/LearnECL/MachineLearning/LogisticRegression/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </30420f175656fdf9ebba9c2792f772c41d3f674e-66b82b54156e4054e19d.js>; rel=preload; as=script
   Link: </component---src-templates-page-tsx-157f395ed4e72b904f71.js>; rel=preload; as=script
 /404/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </component---src-pages-404-tsx-5cc7d02a3697c3b5ddd5.js>; rel=preload; as=script
 /search/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </component---src-pages-search-tsx-e0d0133d3e87e2cbb1a5.js>; rel=preload; as=script
 /tutorial/
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </b043c2f42d4a798c4155fa5f3900193cc43fa061-fd8f3249640c5d3f9325.js>; rel=preload; as=script
   Link: </component---src-pages-tutorial-tsx-470de3f58d4a6f162c67.js>; rel=preload; as=script
 /404.html
-  Link: </webpack-runtime-b6b3e6c2425970045df4.js>; rel=preload; as=script
+  Link: </webpack-runtime-7227c82ab9d536ee23e2.js>; rel=preload; as=script
   Link: </framework-c0711e029899365cbb38.js>; rel=preload; as=script
   Link: </app-300f1055fc59700d5f0c.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-bc939740a436d77ca874.js>; rel=preload; as=script
+  Link: </commons-ed5e52d3cf65aa4126fa.js>; rel=preload; as=script
   Link: </component---src-pages-404-tsx-5cc7d02a3697c3b5ddd5.js>; rel=preload; as=script
