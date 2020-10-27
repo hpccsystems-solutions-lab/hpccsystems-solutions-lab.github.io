@@ -154,11 +154,58 @@ The new table inherits the implicit relationality the recordset has (if any), un
 Number of records in the input dataset is equal to generated table, which means no aggregation is involved.</p>
 <p font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM gTssOZ"><strong>CrossTab</strong>
 There is at least one field using an aggregate function with the keyword GROUP as its first parameter. The number of records produced is equal to the number of distinct values of the expression.</p>
-<div class="gatsby-highlight" data-language="java"><pre class="language-java"><code class="language-java">attr_name <span class="token operator">:</span><span class="token operator">=</span> <span class="token function">TABLE</span><span class="token punctuation">(</span>dataset<span class="token punctuation">,</span>
+<div class="gatsby-highlight" data-language="java"><pre class="language-java"><code class="language-java"><span class="token comment">/*** Stand-alone record definition ***/</span>
+
+<span class="token comment">//Defining result record definition</span>
+out_record_def <span class="token operator">:</span><span class="token operator">=</span> RECORD
+              dataset<span class="token punctuation">.</span>field<span class="token punctuation">;</span>
+              dataset<span class="token punctuation">.</span>field<span class="token punctuation">;</span>
+              <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
+              field_name <span class="token operator">:</span><span class="token operator">=</span> <span class="token class-name">Agg_Func</span><span class="token punctuation">(</span>GROUP<span class="token punctuation">,</span> dataset<span class="token punctuation">.</span>field<span class="token punctuation">)</span><span class="token punctuation">;</span>
+              field_name <span class="token operator">:</span><span class="token operator">=</span> <span class="token class-name">Agg_Func</span><span class="token punctuation">(</span>GROUP<span class="token punctuation">,</span> dataset<span class="token punctuation">.</span>field<span class="token punctuation">)</span><span class="token punctuation">;</span>
+              field_name <span class="token operator">:</span><span class="token operator">=</span> <span class="token function">COUNT</span><span class="token punctuation">(</span>GROUP<span class="token punctuation">)</span><span class="token punctuation">;</span>
+              <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
+END<span class="token punctuation">;</span>
+<span class="token comment">//Creating the table</span>
+attr_name <span class="token operator">:</span><span class="token operator">=</span> <span class="token function">TABLE</span><span class="token punctuation">(</span>dataset<span class="token punctuation">,</span>
                     out_record_def<span class="token punctuation">,</span>
                     grouping_conditions
-                    <span class="token punctuation">[</span><span class="token punctuation">,</span> flags<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre></div>
+                    <span class="token punctuation">[</span><span class="token punctuation">,</span> flags<span class="token punctuation">]</span>
+                    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+
+<span class="token comment">/*** Inline record definition ***/</span>
+attr_name <span class="token operator">:</span><span class="token operator">=</span> <span class="token function">TABLE</span><span class="token punctuation">(</span>dataset<span class="token punctuation">,</span>
+                    <span class="token punctuation">{</span>
+                      field<span class="token punctuation">,</span>  <span class="token comment">//Calling specific field from input dataset</span>
+                      field<span class="token punctuation">,</span>
+                      <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
+                      field_name <span class="token operator">:</span><span class="token operator">=</span> <span class="token class-name">Agg_Func</span><span class="token punctuation">(</span>GROUP<span class="token punctuation">,</span> dataset<span class="token punctuation">.</span>field<span class="token punctuation">)</span><span class="token punctuation">;</span>
+                      field_name <span class="token operator">:</span><span class="token operator">=</span> <span class="token class-name">Agg_Func</span><span class="token punctuation">(</span>GROUP<span class="token punctuation">,</span> dataset<span class="token punctuation">.</span>field<span class="token punctuation">)</span><span class="token punctuation">;</span>
+                      field_name <span class="token operator">:</span><span class="token operator">=</span> <span class="token function">COUNT</span><span class="token punctuation">(</span>GROUP<span class="token punctuation">)</span><span class="token punctuation">;</span>
+                      <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
+                    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+                    grouping_conditions
+                    <span class="token punctuation">[</span><span class="token punctuation">,</span> flags<span class="token punctuation">]</span>
+                    <span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre></div>
 <ul class="MarkdownComponents__UnorderedList-sc-1g1khe4-0 rOqCW">
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">
+<p font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM gTssOZ">out<em>record</em>def</p>
+<ul class="MarkdownComponents__UnorderedList-sc-1g1khe4-0 rOqCW">
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">dataset.field / field</li>
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">field(s) from input dataset.</li>
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">Record definition that will contain both the grouping condition results and any new attributes computed as part of the aggregation</li>
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">Functions that operate on TABLE groups</li>
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">SUM, MAX, MIN, COUNT, AVE, VARIANCE, COVARIANCE, CORRELATION</li>
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">When used within TABLE, these functions accept the keyword GROUP to denote currently-grouped table data</li>
+</ul>
+</li>
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">
+<p font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM gTssOZ">attr_name</p>
+<ul class="MarkdownComponents__UnorderedList-sc-1g1khe4-0 rOqCW">
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">The name by which the table will be invoked</li>
+</ul>
+</li>
 <li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">
 <p font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM gTssOZ">dataset</p>
 <ul class="MarkdownComponents__UnorderedList-sc-1g1khe4-0 rOqCW">
@@ -168,10 +215,7 @@ There is at least one field using an aggregate function with the keyword GROUP a
 <li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">
 <p font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM gTssOZ">out<em>record</em>def</p>
 <ul class="MarkdownComponents__UnorderedList-sc-1g1khe4-0 rOqCW">
-<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">Record definition that will contain both the grouping condition results and any new attributes computed as part of the aggregation</li>
-<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">Functions that operate on TABLE groups</li>
-<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">SUM, MAX, MIN, COUNT, AVE, VARIANCE, COVARIANCE, CORRELATION</li>
-<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">When used within TABLE, these functions accept the keyword GROUP to denote currently-grouped table data</li>
+<li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">The name by which the record layout will be invoked</li>
 </ul>
 </li>
 <li font-size="16px" font-weight="400" color="grey07" class="sc-bxivhb sc-bZQynM khWjjp">
